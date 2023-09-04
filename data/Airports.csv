@@ -1,4 +1,4 @@
-ID,CODE,C_CODE,AIRPORT_TYPE,A�ROPORT_T,TYPE_CODE,AIRPORT_A�ROPORT,CITY,PROV,PROVINCE_FR,LAT,LONG
+ID,CODE,C_CODE,TYPE,A�ROPORT_T,TYPE_CODE,AIRPORT_A�ROPORT,CITY,PROV,PROVINCE_FR,LAT,LONG
 177,YXY,CYXY,Control Tower,Tour de contr�le,1,Erik Nielsen Whitehorse,Whitehorse,Yukon,Yukon,60.716666,-135.066666
 185,YYJ,CYYJ,Control Tower,Tour de contr�le,1,Victoria International,Victoria,British Columbia,Colombie-Britannique,48.65,-123.433333
 188,YYT,CYYT,Control Tower,Tour de contr�le,1,St John's Intl,Saint John,Newfoundland and Labrador,Terre-Neuve-et-Labrador,47.616666,-52.75
